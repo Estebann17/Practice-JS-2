@@ -1,2 +1,2 @@
 # Practice-JS-2
-Practica sobre Encapculación
+Practica sobre Encapsulación
